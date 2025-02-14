@@ -32,21 +32,25 @@ skills:
   logo: /images/sections/skills/typescript.svg
   summary: ""
   categories: ["language"]
+  url: "https://www.tornadoweb.org/en/stable"
 
 - name: Javascript
   logo: /images/sections/skills/javascript.png
   summary: ""
   categories: ["language"]
+  url: "https://www.tornadoweb.org/en/stable"
 
 - name: Python
   logo: /images/sections/skills/python.png
   summary: ""
   categories: ["language"]
+  url: "https://www.tornadoweb.org/en/stable"
 
 - name: Go
   logo: /images/sections/skills/go.png
   summary: ""
   categories: ["language"]
+  url: "https://www.tornadoweb.org/en/stable"
 
 - name: HTML
   logo: /images/sections/skills/html.png
