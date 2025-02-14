@@ -25,17 +25,67 @@ buttons:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
+- name: Typescript
+  logo: /images/sections/skills/typescript.svg
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   categories: ["basic", "language"]
+
+- name: Javascript
+  logo: /images/sections/skills/javascript.png
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  categories: ["basic", "language"]
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  categories: ["basic", "language"]
+
+- name: Go
+  logo: /images/sections/skills/go.png
+  summary: "."
+  categories: ["basic", "language"]
   url: "https://golang.org/"
+
+- name: HTML
+  logo: /images/sections/skills/html.png
+  summary: "."
+  categories: ["basic", "language"]
+  url: "https://golang.org/"
+
+- name: CSS
+  logo: /images/sections/skills/css.png
+  summary: "."
+  categories: ["basic", "language"]
+  url: "https://golang.org/"
+
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: "."
+  categories: ["basic", "language"]
+  url: "https://golang.org/"
+
+- name: Objective-C
+  logo: /images/sections/skills/obj-c.png
+  summary: "."
+  categories: ["basic", "language"]
+  url: "https://golang.org/"
+
+- name: Swift
+  logo: /images/sections/skills/swift.png
+  summary: "."
+  categories: ["basic", "language"]
+  url: "https://golang.org/"
+
+- name: C
+  logo: /images/sections/skills/c.png
+  summary: "."
+  categories: ["basic", "language"]
+
+- name: R
+  logo: /images/sections/skills/r.png
+  summary: "."
+  categories: ["basic", "language"]
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
@@ -64,8 +114,3 @@ skills:
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   categories: ["basic"]
   url: "https://git-scm.com/"
-
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
