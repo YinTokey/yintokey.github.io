@@ -173,10 +173,12 @@ skills:
   categories: ["Backend"]
 
 - name: Websocket
+  logo: /images/sections/skills/obj-c.png
   summary: "."
   categories: ["Backend"]
 
 - name: Microservice
+  logo: /images/sections/skills/obj-c.png
   summary: "."
   categories: ["Backend"]
 
@@ -226,10 +228,12 @@ skills:
   categories: ["Mobile"]
 
 - name: MVC
+  logo: /images/sections/skills/obj-c.png
   summary: ""
   categories: ["Mobile"]
 
 - name: MVVM
+  logo: /images/sections/skills/obj-c.png
   summary: ""
   categories: ["Mobile"]
 
@@ -254,6 +258,7 @@ skills:
   categories: ["Mobile"]
 
 - name: LLM (Large Language Model)
+  logo: /images/sections/skills/obj-c.png
   summary: " "
   categories: ["Other"]
 
