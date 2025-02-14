@@ -30,42 +30,38 @@ skills:
 
 - name: Typescript
   logo: /images/sections/skills/typescript.svg
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: ""
   categories: ["language"]
 
 - name: Javascript
   logo: /images/sections/skills/javascript.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: ""
   categories: ["language"]
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: ""
   categories: ["language"]
 
 - name: Go
   logo: /images/sections/skills/go.png
-  summary: "."
+  summary: ""
   categories: ["language"]
-  url: "https://golang.org/"
 
 - name: HTML
   logo: /images/sections/skills/html.png
-  summary: "."
+  summary: ""
   categories: ["language"]
-  url: "https://golang.org/"
 
 - name: CSS
   logo: /images/sections/skills/css.png
-  summary: "."
+  summary: ""
   categories: ["language"]
-  url: "https://golang.org/"
 
 - name: SQL
   logo: /images/sections/skills/sql.png
   summary: "."
   categories: ["language"]
-  url: "https://golang.org/"
 
 - name: Shell
   logo: /images/sections/skills/shell.png
@@ -76,13 +72,12 @@ skills:
   logo: /images/sections/skills/obj-c.png
   summary: "."
   categories: ["language"]
-  url: "https://golang.org/"
 
 - name: Swift
   logo: /images/sections/skills/swift.png
   summary: "."
   categories: ["language"]
-  url: "https://golang.org/"
+  url: "https://swift.org/"
 
 - name: C
   logo: /images/sections/skills/c.png
@@ -108,11 +103,14 @@ skills:
   logo: /images/sections/skills/ionic.png
   summary: "."
   categories: ["Frontend"]
+  url: "https://ionicframework.com/"
+
 
 - name: Material UI
   logo: /images/sections/skills/materialui.png
   summary: "."
   categories: ["Frontend"]
+  url: "https://mui.com/" 
 
 - name: ES6
   logo: /images/sections/skills/es6.png
@@ -128,6 +126,7 @@ skills:
   logo: /images/sections/skills/materializecss.png
   summary: "."
   categories: ["Frontend"]
+  url: "https://materializecss.com/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
@@ -196,21 +195,26 @@ skills:
   logo: /images/sections/skills/egg.svg
   summary: "."
   categories: ["Backend"]
+  url: "https://eggjs.org/"
 
 - name: Nest.js
   logo: /images/sections/skills/nestjs.png
   summary: "."
   categories: ["Backend"]
+  url: "https://nestjs.com/"
+
 
 - name: Tornado
   logo: /images/sections/skills/tornado.png
   summary: "."
   categories: ["Backend"]
+  url: "https://www.tornadoweb.org/en/stable/"
 
 - name: Go-Kratos
   logo: /images/sections/skills/kratos.png
   summary: "."
   categories: ["Backend"]
+  url: "https://go-kratos.dev/"
 
 - name: UIKit
   logo: /images/sections/skills/kratos.png
@@ -218,16 +222,16 @@ skills:
   categories: ["Mobile"]
 
 - name: MVC
-  summary: "."
+  summary: ""
   categories: ["Mobile"]
 
 - name: MVVM
-  summary: "."
+  summary: ""
   categories: ["Mobile"]
 
 - name: CocoaPods
   logo: /images/sections/skills/cocoapods.png
-  summary: "."
+  summary: ""
   categories: ["Mobile"]
 
 - name: Xcode
@@ -253,7 +257,6 @@ skills:
   logo: /images/sections/skills/git.png
   summary: " "
   categories: ["Other"]
-  url: "https://git-scm.com/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -264,28 +267,23 @@ skills:
   logo: /images/sections/skills/gitlab.png
   summary: " "
   categories: ["Other"]
-  url: "https://git-scm.com/"
 
 - name: Jenkins
   logo: /images/sections/skills/jenkins.png
   summary: " "
   categories: ["Other"]
-  url: "https://git-scm.com/"
 
 - name: FFMPEG
   logo: /images/sections/skills/ffmpeg.png
   summary: " "
   categories: ["Other"]
-  url: "https://git-scm.com/"
 
 - name: Figma
   logo: /images/sections/skills/figma.png
   summary: " "
   categories: ["Other"]
-  url: "https://git-scm.com/"
 
 - name: Sketch
   logo: /images/sections/skills/sketch.png
   summary: " "
   categories: ["Other"]
-  url: "https://git-scm.com/"
