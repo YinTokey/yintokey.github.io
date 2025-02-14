@@ -13,14 +13,16 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Basic
-  filter: "basic"
 - name: Language
   filter: "language"
-- name: Container
-  filter: "container"
-- name: Others
-  filter: "others"
+- name: Backend
+  filter: "Backend"
+- name: Frontend
+  filter: "Frontend"
+- name: Mobile
+  filter: "Mobile"
+- name: Other
+  filter: "Other"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
@@ -29,88 +31,261 @@ skills:
 - name: Typescript
   logo: /images/sections/skills/typescript.svg
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
+  categories: ["language"]
 
 - name: Javascript
   logo: /images/sections/skills/javascript.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
+  categories: ["language"]
 
 - name: Python
   logo: /images/sections/skills/python.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
+  categories: ["language"]
 
 - name: Go
   logo: /images/sections/skills/go.png
   summary: "."
-  categories: ["basic", "language"]
+  categories: ["language"]
   url: "https://golang.org/"
 
 - name: HTML
   logo: /images/sections/skills/html.png
   summary: "."
-  categories: ["basic", "language"]
+  categories: ["language"]
   url: "https://golang.org/"
 
 - name: CSS
   logo: /images/sections/skills/css.png
   summary: "."
-  categories: ["basic", "language"]
+  categories: ["language"]
   url: "https://golang.org/"
 
 - name: SQL
   logo: /images/sections/skills/sql.png
   summary: "."
-  categories: ["basic", "language"]
+  categories: ["language"]
   url: "https://golang.org/"
+
+- name: Shell
+  logo: /images/sections/skills/shell.png
+  summary: "."
+  categories: ["language"]
 
 - name: Objective-C
   logo: /images/sections/skills/obj-c.png
   summary: "."
-  categories: ["basic", "language"]
+  categories: ["language"]
   url: "https://golang.org/"
 
 - name: Swift
   logo: /images/sections/skills/swift.png
   summary: "."
-  categories: ["basic", "language"]
+  categories: ["language"]
   url: "https://golang.org/"
 
 - name: C
   logo: /images/sections/skills/c.png
   summary: "."
-  categories: ["basic", "language"]
+  categories: ["language"]
 
 - name: R
   logo: /images/sections/skills/r.png
   summary: "."
-  categories: ["basic", "language"]
+  categories: ["language"]
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+- name: React.js
+  logo: /images/sections/skills/react.png
+  summary: "."
+  categories: ["Frontend"]
+
+- name: Next.js
+  logo: /images/sections/skills/nextjs.png
+  summary: "."
+  categories: ["Frontend"]
+
+- name: Ionic
+  logo: /images/sections/skills/ionic.png
+  summary: "."
+  categories: ["Frontend"]
+
+- name: Material UI
+  logo: /images/sections/skills/materialui.png
+  summary: "."
+  categories: ["Frontend"]
+
+- name: ES6
+  logo: /images/sections/skills/es6.png
+  summary: "."
+  categories: ["Frontend"]
+
+- name: Electron
+  logo: /images/sections/skills/electron.svg
+  summary: "."
+  categories: ["Frontend"]
+
+- name: Materializecss
+  logo: /images/sections/skills/materializecss.png
+  summary: "."
+  categories: ["Frontend"]
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
+  summary: "."
+  categories: ["Backend"]
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
+- name: AWS Cloud
+  logo: /images/sections/skills/aws.png
+  summary: "EC2, S3, Route53, App Runner, cloud form......."
+  categories: ["Backend"]
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
+- name: Node.js
+  logo: /images/sections/skills/nodejs.png
+  summary: "."
+  categories: ["Backend"]
+
+- name: REST API
+  logo: /images/sections/skills/api.png
+  summary: "."
+  categories: ["Backend"]
+
+- name: Redis
+  logo: /images/sections/skills/redis.png
+  summary: "."
+  categories: ["Backend"]
+
+- name: MongoDB
+  logo: /images/sections/skills/mongodb.png
+  summary: "."
+  categories: ["Backend"]
+
+- name: MySQL
+  logo: /images/sections/skills/mysql.png
+  summary: "."
+  categories: ["Backend"]
+
+- name: RabbitMQ
+  logo: /images/sections/skills/rabbitmq.png
+  summary: "."
+  categories: ["Backend"]
+
+- name: Websocket
+  summary: "."
+  categories: ["Backend"]
+
+- name: Microservice
+  summary: "."
+  categories: ["Backend"]
+
+- name: Protobuf
+  logo: /images/sections/skills/protobuf.png
+  summary: "."
+  categories: ["Backend"]
+
+- name: gRPC
+  logo: /images/sections/skills/grpc.webp
+  summary: "."
+  categories: ["Backend"]
+
+- name: Koa.js
+  logo: /images/sections/skills/koa.png
+  summary: "."
+  categories: ["Backend"]
+
+- name: Egg.js
+  logo: /images/sections/skills/egg.svg
+  summary: "."
+  categories: ["Backend"]
+
+- name: Nest.js
+  logo: /images/sections/skills/nestjs.png
+  summary: "."
+  categories: ["Backend"]
+
+- name: Tornado
+  logo: /images/sections/skills/tornado.png
+  summary: "."
+  categories: ["Backend"]
+
+- name: Go-Kratos
+  logo: /images/sections/skills/kratos.png
+  summary: "."
+  categories: ["Backend"]
+
+- name: UIKit
+  logo: /images/sections/skills/kratos.png
+  summary: "."
+  categories: ["Mobile"]
+
+- name: MVC
+  summary: "."
+  categories: ["Mobile"]
+
+- name: MVVM
+  summary: "."
+  categories: ["Mobile"]
+
+- name: CocoaPods
+  logo: /images/sections/skills/cocoapods.png
+  summary: "."
+  categories: ["Mobile"]
+
+- name: Xcode
+  logo: /images/sections/skills/xcode.png
+  summary: "."
+  categories: ["Mobile"]
+
+- name: RxSwfit
+  logo: /images/sections/skills/rxswift.png
+  summary: "."
+  categories: ["Mobile"]
+
+- name: SQLite
+  logo: /images/sections/skills/sqlite.jpeg
+  summary: "."
+  categories: ["Mobile"]
+
+- name: LLM (Large Language Model)
+  summary: " "
+  categories: ["Other"]
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
+  summary: " "
+  categories: ["Other"]
+  url: "https://git-scm.com/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: " "
+  categories: ["Other"]
+
+- name: Gitlab CI/CD
+  logo: /images/sections/skills/gitlab.png
+  summary: " "
+  categories: ["Other"]
+  url: "https://git-scm.com/"
+
+- name: Jenkins
+  logo: /images/sections/skills/jenkins.png
+  summary: " "
+  categories: ["Other"]
+  url: "https://git-scm.com/"
+
+- name: FFMPEG
+  logo: /images/sections/skills/ffmpeg.png
+  summary: " "
+  categories: ["Other"]
+  url: "https://git-scm.com/"
+
+- name: Figma
+  logo: /images/sections/skills/figma.png
+  summary: " "
+  categories: ["Other"]
+  url: "https://git-scm.com/"
+
+- name: Sketch
+  logo: /images/sections/skills/sketch.png
+  summary: " "
+  categories: ["Other"]
   url: "https://git-scm.com/"
