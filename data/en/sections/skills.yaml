@@ -29,28 +29,24 @@ buttons:
 skills:
 
 - name: Typescript
-  logo: /images/sections/skills/typescript.svg
+ # logo: /images/sections/skills/typescript.svg
   summary: ""
   categories: ["language"]
-  url: "https://www.tornadoweb.org/en/stable"
 
 - name: Javascript
   logo: /images/sections/skills/javascript.png
   summary: ""
   categories: ["language"]
-  url: "https://www.tornadoweb.org/en/stable"
 
 - name: Python
   logo: /images/sections/skills/python.png
   summary: ""
   categories: ["language"]
-  url: "https://www.tornadoweb.org/en/stable"
 
 - name: Go
   logo: /images/sections/skills/go.png
   summary: ""
   categories: ["language"]
-  url: "https://www.tornadoweb.org/en/stable"
 
 - name: HTML
   logo: /images/sections/skills/html.png
@@ -122,7 +118,7 @@ skills:
   categories: ["Frontend"]
 
 - name: Electron
-  logo: /images/sections/skills/electron.svg
+  # logo: /images/sections/skills/electron.svg
   summary: "."
   categories: ["Frontend"]
 
@@ -133,7 +129,7 @@ skills:
   url: "https://materializecss.com/"
 
 - name: Docker
-  logo: /images/sections/skills/docker.svg
+ # logo: /images/sections/skills/docker.svg
   summary: "."
   categories: ["Backend"]
 
@@ -143,7 +139,7 @@ skills:
   categories: ["Backend"]
 
 - name: Node.js
-  logo: /images/sections/skills/nodejs.png
+ # logo: /images/sections/skills/nodejs.png
   summary: "."
   categories: ["Backend"]
 
@@ -196,7 +192,7 @@ skills:
   categories: ["Backend"]
 
 - name: Egg.js
-  logo: /images/sections/skills/egg.svg
+#  logo: /images/sections/skills/egg.svg
   summary: "."
   categories: ["Backend"]
   url: "https://eggjs.org/"
@@ -243,7 +239,7 @@ skills:
   summary: "."
   categories: ["Mobile"]
 
-- name: RxSwfit
+- name: RxSwift
   logo: /images/sections/skills/rxswift.png
   summary: "."
   categories: ["Mobile"]
