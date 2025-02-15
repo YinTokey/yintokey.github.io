@@ -38,10 +38,10 @@ skills:
   summary: ""
   categories: ["language"]
 
-# - name: Python
-#   logo: /images/sections/skills/python.png
-#   summary: ""
-#   categories: ["language"]
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: ""
+  categories: ["language"]
 
 # - name: Go
 #   logo: /images/sections/skills/go.png
