@@ -247,47 +247,47 @@ skills:
 #   summary: ""
 #   categories: ["Mobile"]
 
-# - name: SQLite
-#   logo: /images/sections/skills/sqlite.jpeg
-#   summary: ""
-#   categories: ["Mobile"]
+- name: SQLite
+  logo: /images/sections/skills/sqlite.jpeg
+  summary: ""
+  categories: ["Mobile"]
 
-# - name: LLM (Large Language Model)
-#   logo: /images/sections/skills/ai.png
-#   summary: " "
-#   categories: ["Other"]
+- name: LLM (Large Language Model)
+  logo: /images/sections/skills/ai.png
+  summary: " "
+  categories: ["Other"]
 
-# - name: Git
-#   logo: /images/sections/skills/git.png
-#   summary: " "
-#   categories: ["Other"]
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: " "
+  categories: ["Other"]
 
-# - name: Linux
-#   logo: /images/sections/skills/linux.png
-#   summary: " "
-#   categories: ["Other"]
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: " "
+  categories: ["Other"]
 
-# - name: Gitlab CI/CD
-#   logo: /images/sections/skills/gitlab.png
-#   summary: " "
-#   categories: ["Other"]
+- name: Gitlab CI/CD
+  logo: /images/sections/skills/gitlab.png
+  summary: " "
+  categories: ["Other"]
 
-# - name: Jenkins
-#   logo: /images/sections/skills/jenkins.png
-#   summary: " "
-#   categories: ["Other"]
+- name: Jenkins
+  logo: /images/sections/skills/jenkins.png
+  summary: " "
+  categories: ["Other"]
 
-# - name: FFMPEG
-#   logo: /images/sections/skills/ffmpeg.png
-#   summary: " "
-#   categories: ["Other"]
+- name: FFMPEG
+  logo: /images/sections/skills/ffmpeg.png
+  summary: " "
+  categories: ["Other"]
 
-# - name: Figma
-#   logo: /images/sections/skills/figma.png
-#   summary: " "
-#   categories: ["Other"]
+- name: Figma
+  logo: /images/sections/skills/figma.png
+  summary: " "
+  categories: ["Other"]
 
-# - name: Sketch
-#   logo: /images/sections/skills/sketch.png
-#   summary: " "
-#   categories: ["Other"]
+- name: Sketch
+  logo: /images/sections/skills/sketch.png
+  summary: " "
+  categories: ["Other"]
