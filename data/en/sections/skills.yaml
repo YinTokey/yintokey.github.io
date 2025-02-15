@@ -244,7 +244,7 @@ skills:
 
 - name: RxSwift
   logo: /images/sections/skills/rxswift.png
-  summary: "."
+  summary: ""
   categories: ["Mobile"]
 
 - name: SQLite

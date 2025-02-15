@@ -56,7 +56,7 @@ projects:
   timeline: "Apr 2021"
   repo: https://github.com/gabriel-vasile/mimetype # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: .
+  summary: A Golang package for detecting MIME types and file extensions. I contributed code to support the detection of one MIME type.
   tags: ["Open Source"]
 
 - name: Doupai
@@ -65,7 +65,8 @@ projects:
   timeline: "Aug 2019 - May 2021"
   url: https://apptopia.com/ios/app/1441388905/about # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: (Before 2022, the comapny was called "BIG HEAD BROTHERS").
+  summary: Doupai is a video editing tool that helps users create engaging videos and quickly share them on social media. Launched in 2014, closed in 2023, it ranked top 1 in the Apple Store multiple times. <br><br> I was primarily responsible for iOS video editing and UI development. Most of the time, I independently built iOS UI components and collaborated with other team to integrate the video rendering engine. <br><br> From February 2021 to May 2021, during a major version update, I had the opportunity to lead a team of 3 iOS engineers. I oversaw the development process, coordinated with the engine team, and mentoring team members to understand and work with the complex video editing system.
+
   tags: ["professional"]
 
 - name: Youpai
@@ -73,5 +74,5 @@ projects:
   role: Developer
   timeline: "Mar 2017 - Jan 2018"
   url: https://www.4399youpai.com/
-  summary: .
+  summary: Youpai is a game live-streaming and video-sharing platform under 4399. It provides live streams of popular PC and mobile games. I worked on the iOS client development.
   tags: ["professional"]
