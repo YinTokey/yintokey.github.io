@@ -160,7 +160,7 @@ skills:
 
 - name: MySQL
   logo: /images/sections/skills/mysql.png
-  summary: "."
+  summary: ""
   categories: ["Backend"]
 
 - name: RabbitMQ
@@ -189,12 +189,12 @@ skills:
 
 - name: Koa.js
   logo: /images/sections/skills/koa.png
-  summary: "."
+  summary: ""
   categories: ["Backend"]
 
 - name: Egg.js
   logo: /images/sections/skills/egg.svg
-  summary: "."
+  summary: ""
   categories: ["Backend"]
   url: "https://eggjs.org/"
 
@@ -239,7 +239,7 @@ skills:
 
 - name: Xcode
   logo: /images/sections/skills/xcode.png
-  summary: "."
+  summary: ""
   categories: ["Mobile"]
 
 - name: RxSwift
@@ -249,7 +249,7 @@ skills:
 
 - name: SQLite
   logo: /images/sections/skills/sqlite.jpeg
-  summary: "."
+  summary: ""
   categories: ["Mobile"]
 
 - name: LLM (Large Language Model)
