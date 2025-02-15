@@ -33,10 +33,10 @@ skills:
   summary: ""
   categories: ["language"]
 
-# - name: Javascript
-#   logo: /images/sections/skills/javascript.png
-#   summary: ""
-#   categories: ["language"]
+- name: Javascript
+  logo: /images/sections/skills/javascript.png
+  summary: ""
+  categories: ["language"]
 
 # - name: Python
 #   logo: /images/sections/skills/python.png
