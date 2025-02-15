@@ -33,257 +33,261 @@ skills:
   summary: ""
   categories: ["language"]
 
-# - name: Javascript
-#   logo: /images/sections/skills/javascript.png
-#   summary: ""
-#   categories: ["language"]
+- name: Javascript
+  logo: /images/sections/skills/javascript.png
+  summary: ""
+  categories: ["language"]
 
-# - name: Python
-#   logo: /images/sections/skills/python.png
-#   summary: ""
-#   categories: ["language"]
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: ""
+  categories: ["language"]
 
-# - name: Go
-#   logo: /images/sections/skills/go.png
-#   summary: ""
-#   categories: ["language"]
+- name: Go
+  logo: /images/sections/skills/go.png
+  summary: ""
+  categories: ["language"]
 
-# - name: HTML
-#   logo: /images/sections/skills/html.png
-#   summary: ""
-#   categories: ["language"]
+- name: HTML
+  logo: /images/sections/skills/html.png
+  summary: ""
+  categories: ["language"]
 
-# - name: CSS
-#   logo: /images/sections/skills/css.png
-#   summary: ""
-#   categories: ["language"]
+- name: CSS
+  logo: /images/sections/skills/css.png
+  summary: ""
+  categories: ["language"]
 
-# - name: SQL
-#   logo: /images/sections/skills/sql.png
-#   summary: "."
-#   categories: ["language"]
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: ""
+  categories: ["language"]
 
-# - name: Shell
-#   logo: /images/sections/skills/shell.png
-#   summary: "."
-#   categories: ["language"]
+- name: Shell
+  logo: /images/sections/skills/shell.png
+  summary: ""
+  categories: ["language"]
 
-# - name: Objective-C
-#   logo: /images/sections/skills/obj-c.png
-#   summary: "."
-#   categories: ["language"]
+- name: Objective-C
+  logo: /images/sections/skills/obj-c.png
+  summary: ""
+  categories: ["language"]
 
-# - name: Swift
-#   logo: /images/sections/skills/swift.png
-#   summary: "."
-#   categories: ["language"]
-#   url: "https://swift.org/"
+- name: Swift
+  logo: /images/sections/skills/swift.png
+  summary: ""
+  categories: ["language"]
+  url: "https://swift.org/"
 
-# - name: C
-#   logo: /images/sections/skills/c.png
-#   summary: "."
-#   categories: ["language"]
+- name: C
+  logo: /images/sections/skills/c.png
+  summary: ""
+  categories: ["language"]
 
-# - name: R
-#   logo: /images/sections/skills/r.png
-#   summary: "."
-#   categories: ["language"]
+- name: R
+  logo: /images/sections/skills/r.png
+  summary: ""
+  categories: ["language"]
 
-# - name: React.js
-#   logo: /images/sections/skills/react.png
-#   summary: "."
-#   categories: ["Frontend"]
+- name: React.js
+  logo: /images/sections/skills/react.png
+  summary: ""
+  categories: ["Frontend"]
 
-# - name: Next.js
-#   logo: /images/sections/skills/nextjs.png
-#   summary: "."
-#   categories: ["Frontend"]
+- name: Next.js
+  logo: /images/sections/skills/nextjs.png
+  summary: ""
+  categories: ["Frontend"]
 
-# - name: Ionic
-#   logo: /images/sections/skills/ionic.png
-#   summary: "."
-#   categories: ["Frontend"]
-#   url: "https://ionicframework.com/"
-
-
-# - name: Material UI
-#   logo: /images/sections/skills/materialui.png
-#   summary: "."
-#   categories: ["Frontend"]
-#   url: "https://mui.com/" 
-
-# - name: ES6
-#   logo: /images/sections/skills/es6.png
-#   summary: "."
-#   categories: ["Frontend"]
-
-# - name: Electron
-#   # logo: /images/sections/skills/electron.svg
-#   summary: "."
-#   categories: ["Frontend"]
-
-# - name: Materializecss
-#   logo: /images/sections/skills/materializecss.png
-#   summary: "."
-#   categories: ["Frontend"]
-#   url: "https://materializecss.com/"
-
-# - name: Docker
-#  # logo: /images/sections/skills/docker.svg
-#   summary: "."
-#   categories: ["Backend"]
-
-# - name: AWS Cloud
-#   logo: /images/sections/skills/aws.png
-#   summary: "EC2, S3, Route53, App Runner, cloud form......."
-#   categories: ["Backend"]
-
-# - name: Node.js
-#  # logo: /images/sections/skills/nodejs.png
-#   summary: "."
-#   categories: ["Backend"]
-
-# - name: REST API
-#   logo: /images/sections/skills/api.png
-#   summary: "."
-#   categories: ["Backend"]
-
-# - name: Redis
-#   logo: /images/sections/skills/redis.png
-#   summary: "."
-#   categories: ["Backend"]
-
-# - name: MongoDB
-#   logo: /images/sections/skills/mongodb.png
-#   summary: "."
-#   categories: ["Backend"]
-
-# - name: MySQL
-#   logo: /images/sections/skills/mysql.png
-#   summary: "."
-#   categories: ["Backend"]
-
-# - name: RabbitMQ
-#   logo: /images/sections/skills/rabbitmq.png
-#   summary: "."
-#   categories: ["Backend"]
-
-# - name: Websocket
-#   summary: "."
-#   categories: ["Backend"]
-
-# - name: Microservice
-#   summary: "."
-#   categories: ["Backend"]
-
-# - name: Protobuf
-#   logo: /images/sections/skills/protobuf.png
-#   summary: "."
-#   categories: ["Backend"]
-
-# - name: gRPC
-#   logo: /images/sections/skills/grpc.webp
-#   summary: "."
-#   categories: ["Backend"]
-
-# - name: Koa.js
-#   logo: /images/sections/skills/koa.png
-#   summary: "."
-#   categories: ["Backend"]
-
-# - name: Egg.js
-# #  logo: /images/sections/skills/egg.svg
-#   summary: "."
-#   categories: ["Backend"]
-#   url: "https://eggjs.org/"
-
-# - name: Nest.js
-#   logo: /images/sections/skills/nestjs.png
-#   summary: "."
-#   categories: ["Backend"]
-#   url: "https://nestjs.com/"
+- name: Ionic
+  logo: /images/sections/skills/ionic.png
+  summary: ""
+  categories: ["Frontend"]
+  url: "https://ionicframework.com/"
 
 
-# - name: Tornado
-#   logo: /images/sections/skills/tornado.png
-#   summary: "."
-#   categories: ["Backend"]
-#   url: "https://www.tornadoweb.org/en/stable/"
+- name: Material UI
+  logo: /images/sections/skills/materialui.png
+  summary: ""
+  categories: ["Frontend"]
+  url: "https://mui.com/" 
 
-# - name: Go-Kratos
-#   logo: /images/sections/skills/kratos.png
-#   summary: "."
-#   categories: ["Backend"]
-#   url: "https://go-kratos.dev/"
+- name: ES6
+  logo: /images/sections/skills/es6.png
+  summary: ""
+  categories: ["Frontend"]
 
-# - name: UIKit
-#   logo: /images/sections/skills/kratos.png
-#   summary: "."
-#   categories: ["Mobile"]
+- name: Electron
+  logo: /images/sections/skills/electron.svg
+  summary: ""
+  categories: ["Frontend"]
 
-# - name: MVC
-#   summary: ""
-#   categories: ["Mobile"]
+- name: Materializecss
+  logo: /images/sections/skills/materializecss.png
+  summary: ""
+  categories: ["Frontend"]
+  url: "https://materializecss.com/"
 
-# - name: MVVM
-#   summary: ""
-#   categories: ["Mobile"]
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: ""
+  categories: ["Backend"]
 
-# - name: CocoaPods
-#   logo: /images/sections/skills/cocoapods.png
-#   summary: ""
-#   categories: ["Mobile"]
+- name: AWS Cloud
+  logo: /images/sections/skills/aws.png
+  summary: "EC2, S3, Route53, App Runner, cloud form......."
+  categories: ["Backend"]
 
-# - name: Xcode
-#   logo: /images/sections/skills/xcode.png
-#   summary: "."
-#   categories: ["Mobile"]
+- name: Node.js
+  logo: /images/sections/skills/nodejs.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: RxSwift
-#   logo: /images/sections/skills/rxswift.png
-#   summary: "."
-#   categories: ["Mobile"]
+- name: REST API
+  logo: /images/sections/skills/api.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: SQLite
-#   logo: /images/sections/skills/sqlite.jpeg
-#   summary: "."
-#   categories: ["Mobile"]
+- name: Redis
+  logo: /images/sections/skills/redis.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: LLM (Large Language Model)
-#   summary: " "
-#   categories: ["Other"]
+- name: MongoDB
+  logo: /images/sections/skills/mongodb.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: Git
-#   logo: /images/sections/skills/git.png
-#   summary: " "
-#   categories: ["Other"]
+- name: MySQL
+  logo: /images/sections/skills/mysql.png
+  summary: "."
+  categories: ["Backend"]
 
-# - name: Linux
-#   logo: /images/sections/skills/linux.png
-#   summary: " "
-#   categories: ["Other"]
+- name: RabbitMQ
+  logo: /images/sections/skills/rabbitmq.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: Gitlab CI/CD
-#   logo: /images/sections/skills/gitlab.png
-#   summary: " "
-#   categories: ["Other"]
+- name: Websocket
+  logo: /images/sections/skills/websocket.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: Jenkins
-#   logo: /images/sections/skills/jenkins.png
-#   summary: " "
-#   categories: ["Other"]
+- name: Microservice
+  summary: ""
+  categories: ["Backend"]
 
-# - name: FFMPEG
-#   logo: /images/sections/skills/ffmpeg.png
-#   summary: " "
-#   categories: ["Other"]
+- name: Protobuf
+  logo: /images/sections/skills/protobuf.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: Figma
-#   logo: /images/sections/skills/figma.png
-#   summary: " "
-#   categories: ["Other"]
+- name: gRPC
+  logo: /images/sections/skills/grpc.webp
+  summary: ""
+  categories: ["Backend"]
 
-# - name: Sketch
-#   logo: /images/sections/skills/sketch.png
-#   summary: " "
-#   categories: ["Other"]
+- name: Koa.js
+  logo: /images/sections/skills/koa.png
+  summary: "."
+  categories: ["Backend"]
+
+- name: Egg.js
+  logo: /images/sections/skills/egg.svg
+  summary: "."
+  categories: ["Backend"]
+  url: "https://eggjs.org/"
+
+- name: Nest.js
+  logo: /images/sections/skills/nestjs.png
+  summary: ""
+  categories: ["Backend"]
+  url: "https://nestjs.com/"
+
+
+- name: Tornado
+  logo: /images/sections/skills/tornado.png
+  summary: ""
+  categories: ["Backend"]
+  url: "https://www.tornadoweb.org/en/stable/"
+
+- name: Go-Kratos
+  logo: /images/sections/skills/kratos.png
+  summary: ""
+  categories: ["Backend"]
+  url: "https://go-kratos.dev/"
+
+- name: UIKit
+  logo: /images/sections/skills/apple.png
+  summary: ""
+  categories: ["Mobile"]
+
+- name: MVC
+  logo: /images/sections/skills/mvc.png
+  summary: ""
+  categories: ["Mobile"]
+
+- name: MVVM
+  logo: /images/sections/skills/mvvm.png
+  summary: ""
+  categories: ["Mobile"]
+
+- name: CocoaPods
+  logo: /images/sections/skills/cocoapods.png
+  summary: ""
+  categories: ["Mobile"]
+
+- name: Xcode
+  logo: /images/sections/skills/xcode.png
+  summary: "."
+  categories: ["Mobile"]
+
+- name: RxSwift
+  logo: /images/sections/skills/rxswift.png
+  summary: "."
+  categories: ["Mobile"]
+
+- name: SQLite
+  logo: /images/sections/skills/sqlite.jpeg
+  summary: "."
+  categories: ["Mobile"]
+
+- name: LLM (Large Language Model)
+  logo: /images/sections/skills/ai.png
+  summary: " "
+  categories: ["Other"]
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: " "
+  categories: ["Other"]
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: " "
+  categories: ["Other"]
+
+- name: Gitlab CI/CD
+  logo: /images/sections/skills/gitlab.png
+  summary: " "
+  categories: ["Other"]
+
+- name: Jenkins
+  logo: /images/sections/skills/jenkins.png
+  summary: " "
+  categories: ["Other"]
+
+- name: FFMPEG
+  logo: /images/sections/skills/ffmpeg.png
+  summary: " "
+  categories: ["Other"]
+
+- name: Figma
+  logo: /images/sections/skills/figma.png
+  summary: " "
+  categories: ["Other"]
+
+- name: Sketch
+  logo: /images/sections/skills/sketch.png
+  summary: " "
+  categories: ["Other"]
