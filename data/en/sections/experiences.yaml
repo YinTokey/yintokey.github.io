@@ -11,63 +11,67 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: Shenzhen Aisi Software Technology Co., Ltd. 
+    url: "https://xmind.app/about/"
+    location: Shenzhen, China
+    logo: /images/sections/experiences/xmind.svg
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
+    # darkLogo: /images/sections/experiences/company1.jpg 
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview:  Xmind Established in 2006, is a pioneering mind mapping software trusted by over 100 million users worldwide. Specialized in mind mapping and brainstorming, Xmind offers a versatile suite of tools that cater to diverse needs, from small teams to Fortune 500 companies. <br> <br> Shenzhen Aisi Software Technology Co., Ltd. is the Shenzhe office of Xmind.
+
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Backend Engineer
+    start: Apr 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Jul 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Conceptualized, designed, and launched an AI translation platform for internal use, facilitating the localization of company’s products(Xmind, Xmind AI, Mapify). This platform replaced external vendors with an LLM solution, saving at least 20k CAD annually.
+    - Conducted research on language translation using LLM, including prompt engineering and RAG, to enhance translation accuracy. Achieved up to 90% human translation quality in French and German, as evaluated by internal language specialists.
+    - The AI translation platform developed by full-stack solution using Next.js, Koa.js, and AWS infrastructure, integrating the vector database Pinecone to leverage existing translation memories.
+    - Maintained user and payment services (Python, Node.js), optimized customer management system features; collaborated with tech support and marketing teams to address customer issues effectively.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: Shenzhen Qutui Science & Technology Co., Ltd.
+    url: "https://sjzn.com/"
+    location: Shenzhen, China
+    logo: /images/sections/experiences/shanjian.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Shanjian Intelligence is the leading company of AI video tools in China, with a total of 300 million users worldwide. I signed the contract with its subsidiary Shenzhen Qutui Science & Technology Co., Ltd. <br> <br>
+      Here is the English website https://www.boltcut.ai/
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Backend Development Engineer
+    start: Jun 2021
+    end: Aug 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Led one engineer and coordinated with 5 teams (11 members) to develop and integrate a back-end video rendering service (Node.js, Go, RabbitMQ) supporting 3+ company video-generation products.
+    - Authored a comprehensive tech guide for the video rendering service, improving cross-team collaboration, earning a top performance review (1st of 14) in the back-end team (April 2022).
+    - Served as core back-end developer of the picture & text to video generation product (Shanjian, BoltCut), delivering REST and WebSocket APIs for mobile and front-end clients, enabling cross-platform functionality.
+
+  - designation: iOS Development Engineer
+    start: Mar 2019
+    end: May 2021
+    responsibilities:
+    - Led 3 iOS engineers and coordinated with the engine team to integrate client-side video rendering engine and develop iOS video editing features.
+    - Developed an iOS service registration library to enable modular architectures across multiple projects.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: 4399 Network Co., Ltd. 
+    url: "https://4399en.com/"
+    location: Xiamen, China
+    logo: /images/sections/experiences/4399.jpeg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: 4399 founded in 2002, is a leading Chinese game developer, publisher, and platform operator. It has over 600 million registered users, operates 4399.com, China’s top gaming portal, and has developed and published 30+ hit games across web and mobile platforms.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: iOS Development Engineer
+    start: Jul 2017
+    end: Jan 2019
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Researched the feasibility of the Swift technology stack; developed a children’s content app from scratch with a partner.
+    - Collaborated with other members to develop a gaming video app; responsible for the live chat tables and dynamic feed streaming feature.
+  - designation: iOS Development Intern
+    start: Feb 2017
+    end: Jun 2017

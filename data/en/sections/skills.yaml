@@ -173,9 +173,9 @@ skills:
   summary: ""
   categories: ["Backend"]
 
-- name: Microservice
-  summary: ""
-  categories: ["Backend"]
+# - name: Microservice
+#   summary: ""
+#   categories: ["Backend"]
 
 - name: Protobuf
   logo: /images/sections/skills/protobuf.png
