@@ -53,57 +53,57 @@ skills:
   summary: ""
   categories: ["language"]
 
-# - name: CSS
-#   logo: /images/sections/skills/css.png
-#   summary: ""
-#   categories: ["language"]
+- name: CSS
+  logo: /images/sections/skills/css.png
+  summary: ""
+  categories: ["language"]
 
-# - name: SQL
-#   logo: /images/sections/skills/sql.png
-#   summary: ""
-#   categories: ["language"]
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: ""
+  categories: ["language"]
 
-# - name: Shell
-#   logo: /images/sections/skills/shell.png
-#   summary: ""
-#   categories: ["language"]
+- name: Shell
+  logo: /images/sections/skills/shell.png
+  summary: ""
+  categories: ["language"]
 
-# - name: Objective-C
-#   logo: /images/sections/skills/obj-c.png
-#   summary: ""
-#   categories: ["language"]
+- name: Objective-C
+  logo: /images/sections/skills/obj-c.png
+  summary: ""
+  categories: ["language"]
 
-# - name: Swift
-#   logo: /images/sections/skills/swift.png
-#   summary: ""
-#   categories: ["language"]
-#   url: "https://swift.org/"
+- name: Swift
+  logo: /images/sections/skills/swift.png
+  summary: ""
+  categories: ["language"]
+  url: "https://swift.org/"
 
-# - name: C
-#   logo: /images/sections/skills/c.png
-#   summary: ""
-#   categories: ["language"]
+- name: C
+  logo: /images/sections/skills/c.png
+  summary: ""
+  categories: ["language"]
 
-# - name: R
-#   logo: /images/sections/skills/r.png
-#   summary: ""
-#   categories: ["language"]
+- name: R
+  logo: /images/sections/skills/r.png
+  summary: ""
+  categories: ["language"]
 
-# - name: React.js
-#   logo: /images/sections/skills/react.png
-#   summary: ""
-#   categories: ["Frontend"]
+- name: React.js
+  logo: /images/sections/skills/react.png
+  summary: ""
+  categories: ["Frontend"]
 
-# - name: Next.js
-#   logo: /images/sections/skills/nextjs.png
-#   summary: ""
-#   categories: ["Frontend"]
+- name: Next.js
+  logo: /images/sections/skills/nextjs.png
+  summary: ""
+  categories: ["Frontend"]
 
-# - name: Ionic
-#   logo: /images/sections/skills/ionic.png
-#   summary: ""
-#   categories: ["Frontend"]
-#   url: "https://ionicframework.com/"
+- name: Ionic
+  logo: /images/sections/skills/ionic.png
+  summary: ""
+  categories: ["Frontend"]
+  url: "https://ionicframework.com/"
 
 
 # - name: Material UI
