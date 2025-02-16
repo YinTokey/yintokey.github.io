@@ -43,15 +43,15 @@ skills:
   summary: ""
   categories: ["language"]
 
-# - name: Go
-#   logo: /images/sections/skills/go.png
-#   summary: ""
-#   categories: ["language"]
+- name: Go
+  logo: /images/sections/skills/go.png
+  summary: ""
+  categories: ["language"]
 
-# - name: HTML
-#   logo: /images/sections/skills/html.png
-#   summary: ""
-#   categories: ["language"]
+- name: HTML
+  logo: /images/sections/skills/html.png
+  summary: ""
+  categories: ["language"]
 
 # - name: CSS
 #   logo: /images/sections/skills/css.png
