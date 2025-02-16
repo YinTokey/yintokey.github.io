@@ -45,3 +45,8 @@ degrees:
     scale: GPA
     achieved: 3.5
     outOf: 4
+  takenCourses: #(optional)
+    courses:
+    - name: Data Structures and Algorithms
+    - name: Computer Network
+    - name: System & Applications of Linux
