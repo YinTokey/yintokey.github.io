@@ -148,99 +148,99 @@ skills:
   summary: ""
   categories: ["Backend"]
 
-# - name: MongoDB
-#   logo: /images/sections/skills/mongodb.png
-#   summary: ""
-#   categories: ["Backend"]
+- name: MongoDB
+  logo: /images/sections/skills/mongodb.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: MySQL
-#   logo: /images/sections/skills/mysql.png
-#   summary: ""
-#   categories: ["Backend"]
+- name: MySQL
+  logo: /images/sections/skills/mysql.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: RabbitMQ
-#   logo: /images/sections/skills/rabbitmq.png
-#   summary: ""
-#   categories: ["Backend"]
+- name: RabbitMQ
+  logo: /images/sections/skills/rabbitmq.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: Websocket
-#   logo: /images/sections/skills/websocket.png
-#   summary: ""
-#   categories: ["Backend"]
+- name: Websocket
+  logo: /images/sections/skills/websocket.png
+  summary: ""
+  categories: ["Backend"]
 
 # # - name: Microservice
 # #   summary: ""
 # #   categories: ["Backend"]
 
-# - name: Protobuf
-#   logo: /images/sections/skills/protobuf.png
-#   summary: ""
-#   categories: ["Backend"]
+- name: Protobuf
+  logo: /images/sections/skills/protobuf.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: gRPC
-#   logo: /images/sections/skills/grpc.webp
-#   summary: ""
-#   categories: ["Backend"]
+- name: gRPC
+  logo: /images/sections/skills/grpc.webp
+  summary: ""
+  categories: ["Backend"]
 
-# - name: Koa.js
-#   logo: /images/sections/skills/koa.png
-#   summary: ""
-#   categories: ["Backend"]
+- name: Koa.js
+  logo: /images/sections/skills/koa.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: Egg.js
-#   logo: /images/sections/skills/egg.svg
-#   summary: ""
-#   categories: ["Backend"]
-#   url: "https://eggjs.org/"
+- name: Egg.js
+  logo: /images/sections/skills/egg.svg
+  summary: ""
+  categories: ["Backend"]
+  url: "https://eggjs.org/"
 
-# - name: Nest.js
-#   logo: /images/sections/skills/nestjs.png
-#   summary: ""
-#   categories: ["Backend"]
-#   url: "https://nestjs.com/"
+- name: Nest.js
+  logo: /images/sections/skills/nestjs.png
+  summary: ""
+  categories: ["Backend"]
+  url: "https://nestjs.com/"
 
 
-# - name: Tornado
-#   logo: /images/sections/skills/tornado.png
-#   summary: ""
-#   categories: ["Backend"]
-#   url: "https://www.tornadoweb.org/en/stable/"
+- name: Tornado
+  logo: /images/sections/skills/tornado.png
+  summary: ""
+  categories: ["Backend"]
+  url: "https://www.tornadoweb.org/en/stable/"
 
-# - name: Go-Kratos
-#   logo: /images/sections/skills/kratos.png
-#   summary: ""
-#   categories: ["Backend"]
-#   url: "https://go-kratos.dev/"
+- name: Go-Kratos
+  logo: /images/sections/skills/kratos.png
+  summary: ""
+  categories: ["Backend"]
+  url: "https://go-kratos.dev/"
 
-# - name: UIKit
-#   logo: /images/sections/skills/apple.png
-#   summary: ""
-#   categories: ["Mobile"]
+- name: UIKit
+  logo: /images/sections/skills/apple.png
+  summary: ""
+  categories: ["Mobile"]
 
-# - name: MVC
-#   logo: /images/sections/skills/mvc.png
-#   summary: ""
-#   categories: ["Mobile"]
+- name: MVC
+  logo: /images/sections/skills/mvc.png
+  summary: ""
+  categories: ["Mobile"]
 
-# - name: MVVM
-#   logo: /images/sections/skills/mvvm.png
-#   summary: ""
-#   categories: ["Mobile"]
+- name: MVVM
+  logo: /images/sections/skills/mvvm.png
+  summary: ""
+  categories: ["Mobile"]
 
-# - name: CocoaPods
-#   logo: /images/sections/skills/cocoapods.png
-#   summary: ""
-#   categories: ["Mobile"]
+- name: CocoaPods
+  logo: /images/sections/skills/cocoapods.png
+  summary: ""
+  categories: ["Mobile"]
 
-# - name: Xcode
-#   logo: /images/sections/skills/xcode.png
-#   summary: ""
-#   categories: ["Mobile"]
+- name: Xcode
+  logo: /images/sections/skills/xcode.png
+  summary: ""
+  categories: ["Mobile"]
 
-# - name: RxSwift
-#   logo: /images/sections/skills/rxswift.png
-#   summary: ""
-#   categories: ["Mobile"]
+- name: RxSwift
+  logo: /images/sections/skills/rxswift.png
+  summary: ""
+  categories: ["Mobile"]
 
 - name: SQLite
   logo: /images/sections/skills/sqlite.jpeg
