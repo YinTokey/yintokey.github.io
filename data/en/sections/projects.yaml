@@ -44,10 +44,11 @@ projects:
   summary: .
   tags: ["professional"]
 
-- name: Cloud Video Rendering Service
+- name: Video Rendering Service
   role: Developer
   timeline: "Dec 2021 - Aug 2022"
-  summary: .
+  url: /posts/projects/rendering-service
+  summary: Video Rendering Service is an internal backend core service that supports all the company's video generation products.
   tags: ["professional"]
 
 - name: mimetype
@@ -73,6 +74,6 @@ projects:
   logo: /images/sections/projects/youpai.png
   role: Developer
   timeline: "Mar 2017 - Jan 2018"
-  url: https://www.4399youpai.com/
-  summary: Youpai is a game live-streaming and video-sharing platform under 4399. It provides live streams of popular PC and mobile games. I worked on the iOS client development.
+  url: /posts/projects/youpai
+  summary: Youpai is a game live-streaming and video-sharing platform under 4399.
   tags: ["professional"]

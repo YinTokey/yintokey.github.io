@@ -12,6 +12,12 @@ I was primarily responsible for iOS video editing UI development. Most of the ti
 
 From February 2021 to May 2021, during a major version update, I had the opportunity to lead a team of 3 iOS engineers. I oversaw the development process, coordinated with the engine team, and mentored team members to understand and work with the complex video editing system.
 
+**News about Doupai**
+
+Please use browser’s translation feature if needed
+
+https://www.niaogebiji.com/article-574404-1.html
+
 
 **Screenshots**
 
