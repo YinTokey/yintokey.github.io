@@ -106,16 +106,16 @@ skills:
   url: "https://ionicframework.com/"
 
 
-# - name: Material UI
-#   logo: /images/sections/skills/materialui.png
-#   summary: ""
-#   categories: ["Frontend"]
-#   url: "https://mui.com/" 
-
-- name: ES6
-  logo: /images/sections/skills/es6.png
+- name: Material UI
+  logo: /images/sections/skills/materialui.png
   summary: ""
   categories: ["Frontend"]
+  url: "https://mui.com/" 
+
+# - name: ES6
+#   logo: /images/sections/skills/es6.png
+#   summary: ""
+#   categories: ["Frontend"]
 
 - name: Materializecss
   logo: /images/sections/skills/materializecss.png
