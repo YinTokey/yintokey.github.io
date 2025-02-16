@@ -112,10 +112,10 @@ skills:
   categories: ["Frontend"]
   url: "https://mui.com/" 
 
-# - name: ES6
-#   logo: /images/sections/skills/es6.png
-#   summary: ""
-#   categories: ["Frontend"]
+- name: ES6
+  logo: /images/sections/skills/es.png
+  summary: ""
+  categories: ["Frontend"]
 
 - name: Materializecss
   logo: /images/sections/skills/materializecss.png
