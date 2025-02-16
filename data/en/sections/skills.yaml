@@ -128,30 +128,30 @@ skills:
   categories: ["Frontend"]
   url: "https://materializecss.com/"
 
-# - name: Docker
-#   logo: /images/sections/skills/docker.svg
-#   summary: ""
-#   categories: ["Backend"]
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: ""
+  categories: ["Backend"]
 
-# - name: AWS Cloud
-#   logo: /images/sections/skills/aws.png
-#   summary: "EC2, S3, Route53, App Runner, cloud form......."
-#   categories: ["Backend"]
+- name: AWS Cloud
+  logo: /images/sections/skills/aws.png
+  summary: "EC2, S3, Route53, App Runner, cloud form......."
+  categories: ["Backend"]
 
-# - name: Node.js
-#   logo: /images/sections/skills/nodejs.png
-#   summary: ""
-#   categories: ["Backend"]
+- name: Node.js
+  logo: /images/sections/skills/nodejs.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: REST API
-#   logo: /images/sections/skills/api.png
-#   summary: ""
-#   categories: ["Backend"]
+- name: REST API
+  logo: /images/sections/skills/api.png
+  summary: ""
+  categories: ["Backend"]
 
-# - name: Redis
-#   logo: /images/sections/skills/redis.png
-#   summary: ""
-#   categories: ["Backend"]
+- name: Redis
+  logo: /images/sections/skills/redis.png
+  summary: ""
+  categories: ["Backend"]
 
 # - name: MongoDB
 #   logo: /images/sections/skills/mongodb.png
