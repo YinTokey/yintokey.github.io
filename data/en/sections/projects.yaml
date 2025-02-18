@@ -27,14 +27,14 @@ projects:
   url: /posts/projects/translation-platform
   tags: ["professional"]
 
-- name: Xmind Website
-  logo: /images/sections/projects/xmind.jpg
-  role: Developer
-  timeline: "Apr 2023 - Jul 2024"
-  url: https://xmind.app/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: .
-  tags: ["professional"]
+# - name: Xmind Website
+#   logo: /images/sections/projects/xmind.jpg
+#   role: Developer
+#   timeline: "Apr 2023 - Jul 2024"
+#   url: https://xmind.app/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+#   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+#   summary: .
+#   tags: ["professional"]
 
 - name: Flash Cut
   logo: /images/sections/projects/shanjian.png
