@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on</title><link>https://yintokey.me/posts/</link><description>Recent content in Posts on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://yintokey.me/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Doupai</title><link>https://yintokey.me/posts/projects/dp/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/dp/</guid><description>&lt;p>Doupai is a video editing tool that helps users create engaging videos and quickly share them on social media. Launched in 2014, ranked top 1 in the Chinese Apple Store multiple times, permanently stopped service for users in 2023.&lt;/p>
-&lt;p>I was primarily responsible for iOS video editing UI development. Most of the time, I independently built iOS UI modules and collaborated with another team to integrate the video rendering engine.&lt;/p></description></item><item><title>Video Rendering Service</title><link>https://yintokey.me/posts/projects/rendering-service/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/rendering-service/</guid><description>&lt;h3 id="1-team-members">1. Team Members&lt;/h3>
+&lt;p>I was primarily responsible for iOS video editing UI development. Most of the time, I independently built iOS UI modules and collaborated with another team to integrate the video rendering engine.&lt;/p></description></item><item><title>Flash Cut</title><link>https://yintokey.me/posts/projects/flash-cut/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/flash-cut/</guid><description>&lt;p>Flash Cut is a video generation platform based on text, pictures, and video clips to generate digital avatar videos.&lt;/p>
+&lt;p>Website:&lt;/p>
+&lt;p>&lt;a href="https://www.boltcut.ai" target="_blank" rel="noopener">https://www.boltcut.ai&lt;/a> (English)&lt;/p>
+&lt;p>&lt;a href="https://shanjian.tv" target="_blank" rel="noopener">https://shanjian.tv&lt;/a> (Chinese)&lt;/p>
+&lt;h3 id="1-team-members">1. Team Members&lt;/h3>
+&lt;p>5 members (Backend)&lt;/p>
+&lt;h3 id="2-technologies">2. Technologies&lt;/h3>
+&lt;ul>
+&lt;li>Node.js (Typescript)&lt;/li>
+&lt;li>Redis&lt;/li>
+&lt;li>MongoDB&lt;/li>
+&lt;li>RabbitMQ&lt;/li>
+&lt;li>&lt;a href="https://github.com/apolloconfig/apollo" target="_blank" rel="noopener">ApolloConfig&lt;/a>&lt;/li>
+&lt;li>WebSocket&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-my-role">3. My Role&lt;/h3>
+&lt;p>When this project started from scratch, I was transitioning from an iOS Engineer to a Backend Engineer. After 2 months, I became the core developer on the project in August 2021 and continuously worked on it until the first version launched in July 2022.&lt;/p></description></item><item><title>Language Translation Platform</title><link>https://yintokey.me/posts/projects/translation-platform/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/translation-platform/</guid><description>&lt;h3 id="1-project-background">1. Project Background&lt;/h3>
+&lt;p>The company’s main product &lt;a href="https://xmind.app/" target="_blank" rel="noopener">Xmind&lt;/a> is used in over 100 countries, and every new version launch needs to support multiple languages—usually more than 10 per version. They used to rely on a translation company, but that process was both slow and expensive. With the rise of AI in 2023, the boss suggested trying AI translation to speed up the process and cut costs, so I volunteered to take it on.&lt;/p></description></item><item><title>Video Rendering Service</title><link>https://yintokey.me/posts/projects/rendering-service/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/rendering-service/</guid><description>&lt;h3 id="1-team-members">1. Team Members&lt;/h3>
 &lt;ul>
 &lt;li>Me (Contributed 90%)&lt;/li>
 &lt;li>Another Engineer (Contributed 10%)&lt;/li>
@@ -7,8 +24,8 @@
 &lt;h3 id="2-technologies">2. Technologies&lt;/h3>
 &lt;p>&lt;strong>2.1 Languages &amp;amp; Frameworks&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Node.js (TypeScript) (85%)&lt;/li>
-&lt;li>Go (15%)&lt;/li>
+&lt;li>Node.js (TypeScript) (80%)&lt;/li>
+&lt;li>Go (20%)&lt;/li>
 &lt;li>Egg.js&lt;/li>
 &lt;li>go-kratos&lt;/li>
 &lt;/ul>
@@ -28,7 +45,7 @@
 &lt;/ul>
 &lt;h3 id="3-introduction">3. Introduction&lt;/h3>
 &lt;p>Video Rendering Service is an internal backend core service that supports all the company&amp;rsquo;s video generation products.&lt;/p>
-&lt;p>It integrated 2 video rendering engines to implement many kinds video generation, providing REST api to interact with other backend projects. The architecture is as follows.&lt;/p></description></item><item><title>Youpai</title><link>https://yintokey.me/posts/projects/youpai/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/youpai/</guid><description>&lt;p>Youpai is a game live-streaming and video-sharing platform under 4399. It provides live streams of popular PC and mobile games.&lt;/p>
+&lt;p>It integrated 2 video rendering engines to implement many kinds video generation, providing REST API to interact with other backend projects. The architecture is as follows.&lt;/p></description></item><item><title>Youpai</title><link>https://yintokey.me/posts/projects/youpai/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/youpai/</guid><description>&lt;p>Youpai is a game live-streaming and video-sharing platform under 4399. It provides live streams of popular PC and mobile games.&lt;/p>
 &lt;p>I worked on the iOS client development from March 2017 to January 2018.&lt;/p>
 &lt;p>&lt;strong>Website (Chinese)&lt;/strong>&lt;/p>
-&lt;p>&lt;a href="https://www.4399youpai.com/" target="_blank" rel="noopener">https://www.4399youpai.com/&lt;/a>&lt;/p></description></item><item><title/><link>https://yintokey.me/posts/projects/flash-cut/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/flash-cut/</guid><description>&lt;p>&amp;hellip;&lt;/p></description></item><item><title/><link>https://yintokey.me/posts/projects/translation-platform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/translation-platform/</guid><description/></item><item><title/><link>https://yintokey.me/posts/projects/xmind-website/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/xmind-website/</guid><description/></item></channel></rss>
+&lt;p>&lt;a href="https://www.4399youpai.com/" target="_blank" rel="noopener">https://www.4399youpai.com/&lt;/a>&lt;/p></description></item><item><title/><link>https://yintokey.me/posts/projects/xmind-website/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/xmind-website/</guid><description/></item></channel></rss>
