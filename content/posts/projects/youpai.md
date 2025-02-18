@@ -1,7 +1,8 @@
 ---
 title: "Youpai"
 date: 2025-02-16
-hero: /images/sections/projects/youpai/1.png
+hero: /images/sections/projects/youpai/3.png
+
 ---
 
 Youpai is a game live-streaming and video-sharing platform under 4399. It provides live streams of popular PC and mobile games. 

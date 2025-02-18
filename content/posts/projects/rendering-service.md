@@ -11,8 +11,8 @@ description: "Video Rendering Service is an internal backend core service that s
 
 ### 2. Technologies
 **2.1 Languages & Frameworks**
-- Node.js (TypeScript) (85%)
-- Go (15%)
+- Node.js (TypeScript) (80%)
+- Go (20%)
 - Egg.js
 - go-kratos
 
@@ -30,7 +30,7 @@ description: "Video Rendering Service is an internal backend core service that s
 ### 3. Introduction
 Video Rendering Service is an internal backend core service that supports all the company's video generation products. 
 
-It integrated 2 video rendering engines to implement many kinds video generation, providing REST api to interact with other backend projects. The architecture is as follows.
+It integrated 2 video rendering engines to implement many kinds video generation, providing REST API to interact with other backend projects. The architecture is as follows.
 
 
 ![](/images/sections/projects/video-rendering-service/2.png)
@@ -43,7 +43,7 @@ I led the development and acted as a bridge to coordinate with multiple teams, i
 
 
 ### 5. Biggest Challenge
-As you can see from the diagram, I was facing a huge amount of communication work while also being the core developer of the Flash Cut project. Every day, I was constantly interrupted—whether it was debugging rendering failures, answering questions from different teams, or troubleshooting unexpected issues. I couldn’t even get 20 minutes of uninterrupted focus to code or debug properly. But the development deadline didn’t change. It was extremely overwhelming
+As you can see from the diagram, I was facing a huge amount of communication work while also being the core developer of the [Flash Cut](/posts/projects/flash-cut) project. Every day, I was constantly interrupted—whether it was debugging rendering failures, answering questions from different teams, or troubleshooting unexpected issues. I couldn’t even get 20 minutes of uninterrupted focus to code or debug properly. But the development deadline didn’t change. It was extremely overwhelming
 
 ##### How I overcome it
 
