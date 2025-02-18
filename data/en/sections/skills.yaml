@@ -45,7 +45,7 @@ skills:
 
 - name: Go
   logo: /images/sections/skills/go.png
-  summary: It was the first backend language I learned. I contributed to a Go open source project `mimetype`, and used this language to build a micro service in a company.
+  summary: "It was the first backend language I learned. I contributed to a Go open source project `mimetype`, and used this language to build a micro service in a company."
   categories: ["language"]
 
 - name: HTML
@@ -168,10 +168,6 @@ skills:
   summary: "Able to use is in company's project"
   categories: ["Backend"]
 
-# # - name: Microservice
-# #   summary: ""
-# #   categories: ["Backend"]
-
 - name: Protobuf
   logo: /images/sections/skills/protobuf.png
   summary: "Understand the concept"
@@ -184,18 +180,18 @@ skills:
 
 - name: Koa.js
   logo: /images/sections/skills/koa.png
-  summary: "Able to use is in company's project""
+  summary: "Able to use is in company's project"
   categories: ["Backend"]
 
 - name: Egg.js
   logo: /images/sections/skills/egg.svg
-  summary: "Able to use is in company's project""
+  summary: "Able to use is in company's project"
   categories: ["Backend"]
   url: "https://eggjs.org/"
 
 - name: Nest.js
   logo: /images/sections/skills/nestjs.png
-  summary: "Able to use is in company's project""
+  summary: "Able to use is in company's project"
   categories: ["Backend"]
   url: "https://nestjs.com/"
 
@@ -254,7 +250,6 @@ skills:
   logo: /images/sections/skills/linux.png
   summary: "Comfortable using the Linux terminal "
   categories: ["Other"]
-
 
 - name: FFMPEG
   logo: /images/sections/skills/ffmpeg.png
