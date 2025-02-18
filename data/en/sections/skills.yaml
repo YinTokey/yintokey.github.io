@@ -30,142 +30,142 @@ skills:
 
 - name: Typescript
   logo: /images/sections/skills/typescript.svg
-  summary: ""
+  summary: "As the primary language in multiple company projects"
   categories: ["language"]
 
 - name: Javascript
   logo: /images/sections/skills/javascript.png
-  summary: ""
+  summary: "As the primary language in multiple company projects"
   categories: ["language"]
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: ""
+  summary: "In my last work experience, I used this language in maintaining the existing system and developing new features. Sometimes I prefer to use it to write some scritps."
   categories: ["language"]
 
 - name: Go
   logo: /images/sections/skills/go.png
-  summary: ""
+  summary: It was the first backend language I learned. I contributed to a Go open source project `mimetype`, and used this language to build a micro service in a company.
   categories: ["language"]
 
 - name: HTML
   logo: /images/sections/skills/html.png
-  summary: ""
+  summary: "Understand it, learned it by myself many years ago, and also learned it in a University course in 2024. I can write pure HTML if needed."
   categories: ["language"]
 
 - name: CSS
   logo: /images/sections/skills/css.png
-  summary: ""
+  summary: "I can write it by combining with pure HTML. I learned it in a University course in 2024, most of the time need to search for documents to implement some features."
   categories: ["language"]
 
 - name: SQL
   logo: /images/sections/skills/sql.png
-  summary: ""
+  summary: "Can write basic CURD in company's project"
   categories: ["language"]
 
 - name: Shell
   logo: /images/sections/skills/shell.png
-  summary: ""
+  summary: "Usually use it"
   categories: ["language"]
 
 - name: Objective-C
   logo: /images/sections/skills/obj-c.png
-  summary: ""
+  summary: "I used it from 2016 to 2021 as my main language when I was an iOS engineer. "
   categories: ["language"]
 
 - name: Swift
   logo: /images/sections/skills/swift.png
-  summary: ""
+  summary: "In 2018, used it to write a company's project (Swift 4.1) and have a hobby open source project. [ARShooting](https://github.com/YinTokey/AR-Shooting)"
   categories: ["language"]
   url: "https://swift.org/"
 
 - name: C
   logo: /images/sections/skills/c.png
-  summary: ""
+  summary: "I recently used it for an Operating System Course at University. In 2014, when I was a first-year undergraduate student, I used C to write a Windows music player by calling Win32 API in school. The code can still be found [here](https://github.com/YinTokey/MusicPlayer)"
   categories: ["language"]
 
 - name: R
   logo: /images/sections/skills/r.png
-  summary: ""
+  summary: "Use it for a Data Analytic Course at University"
   categories: ["language"]
 
 - name: React.js
   logo: /images/sections/skills/react.png
-  summary: ""
+  summary: "Used it in last work experience, can write no very complex web page."
   categories: ["Frontend"]
 
 - name: Next.js
   logo: /images/sections/skills/nextjs.png
-  summary: ""
+  summary: "Used it in last work experience, can write no very complex web page."
   categories: ["Frontend"]
 
 - name: Ionic
   logo: /images/sections/skills/ionic.png
-  summary: ""
+  summary: "Learned it from an University course, can write no very complex web page."
   categories: ["Frontend"]
   url: "https://ionicframework.com/"
 
 
 - name: Material UI
   logo: /images/sections/skills/materialui.png
-  summary: ""
+  summary: "Used it in last work experience; need to refer document to coding"
   categories: ["Frontend"]
   url: "https://mui.com/" 
 
 - name: ES6
   logo: /images/sections/skills/es.png
-  summary: ""
+  summary: "Understand it"
   categories: ["Frontend"]
 
 - name: Materializecss
   logo: /images/sections/skills/materializecss.png
-  summary: ""
+  summary: "Used it in an Univeristy Assignment, it is not hard, can use it in projects if needed"
   categories: ["Frontend"]
   url: "https://materializecss.com/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: ""
+  summary: "Often use it for local debug and deployment"
   categories: ["Backend"]
 
 - name: AWS Cloud
   logo: /images/sections/skills/aws.png
-  summary: "EC2, S3, Route53, App Runner, cloud form......."
+  summary: "Used it in last work experience, including EC2, S3, Route53, App Runner, Lambda, ELB, IAM, Cloudformation, Cloudwatch"
   categories: ["Backend"]
 
 - name: Node.js
   logo: /images/sections/skills/nodejs.png
-  summary: ""
+  summary: "Proficient, contributed significantly to many business projects"
   categories: ["Backend"]
 
 - name: REST API
   logo: /images/sections/skills/api.png
-  summary: ""
+  summary: "Very familiar"
   categories: ["Backend"]
 
 - name: Redis
   logo: /images/sections/skills/redis.png
-  summary: ""
+  summary: "Used it in many business projects"
   categories: ["Backend"]
 
 - name: MongoDB
   logo: /images/sections/skills/mongodb.png
-  summary: ""
+  summary: "Able to use is in company's project"
   categories: ["Backend"]
 
 - name: MySQL
   logo: /images/sections/skills/mysql.png
-  summary: ""
+  summary: "Can write basic CURD in company's project"
   categories: ["Backend"]
 
 - name: RabbitMQ
   logo: /images/sections/skills/rabbitmq.png
-  summary: ""
+  summary: "Able to use is in company's project"
   categories: ["Backend"]
 
 - name: Websocket
   logo: /images/sections/skills/websocket.png
-  summary: ""
+  summary: "Able to use is in company's project"
   categories: ["Backend"]
 
 # # - name: Microservice
@@ -174,115 +174,99 @@ skills:
 
 - name: Protobuf
   logo: /images/sections/skills/protobuf.png
-  summary: ""
+  summary: "Understand the concept"
   categories: ["Backend"]
 
 - name: gRPC
   logo: /images/sections/skills/grpc.webp
-  summary: ""
+  summary: "Understand the concept"
   categories: ["Backend"]
 
 - name: Koa.js
   logo: /images/sections/skills/koa.png
-  summary: ""
+  summary: "Able to use is in company's project""
   categories: ["Backend"]
 
 - name: Egg.js
   logo: /images/sections/skills/egg.svg
-  summary: ""
+  summary: "Able to use is in company's project""
   categories: ["Backend"]
   url: "https://eggjs.org/"
 
 - name: Nest.js
   logo: /images/sections/skills/nestjs.png
-  summary: ""
+  summary: "Able to use is in company's project""
   categories: ["Backend"]
   url: "https://nestjs.com/"
 
-
-- name: Tornado
-  logo: /images/sections/skills/tornado.png
-  summary: ""
-  categories: ["Backend"]
-  url: "https://www.tornadoweb.org/en/stable/"
-
 - name: Go-Kratos
   logo: /images/sections/skills/kratos.png
-  summary: ""
+  summary: "Able to use is in company's project, need to refer the latest document"
   categories: ["Backend"]
   url: "https://go-kratos.dev/"
 
 - name: UIKit
   logo: /images/sections/skills/apple.png
-  summary: ""
+  summary: "Previously advanced in it; can quickly regain proficiency if needed."
   categories: ["Mobile"]
 
 - name: MVC
   logo: /images/sections/skills/mvc.png
-  summary: ""
+  summary: "Previously advanced in it; can quickly regain proficiency if needed."
   categories: ["Mobile"]
 
 - name: MVVM
   logo: /images/sections/skills/mvvm.png
-  summary: ""
+  summary: "Previously advanced in it; can quickly regain proficiency if needed."
   categories: ["Mobile"]
 
 - name: CocoaPods
   logo: /images/sections/skills/cocoapods.png
-  summary: ""
+  summary: "Previously advanced in it; can quickly regain proficiency if needed."
   categories: ["Mobile"]
 
 - name: Xcode
   logo: /images/sections/skills/xcode.png
-  summary: ""
+  summary: "Previously advanced in it; can quickly regain proficiency if needed."
   categories: ["Mobile"]
 
 - name: RxSwift
   logo: /images/sections/skills/rxswift.png
-  summary: ""
+  summary: "Previously advanced in it; can quickly regain proficiency if needed."
   categories: ["Mobile"]
 
 - name: SQLite
   logo: /images/sections/skills/sqlite.jpeg
-  summary: ""
+  summary: "I used it in iOS projects many years ago."
   categories: ["Mobile"]
 
 - name: LLM (Large Language Model)
   logo: /images/sections/skills/ai.png
-  summary: " "
+  summary: "In last work experience, use it to build Gen-AI project"
   categories: ["Other"]
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: " "
+  summary: "Proficient, I have used git more than 9 years. Including Github, Gitlab and their CI/CD"
   categories: ["Other"]
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: " "
+  summary: "Comfortable using the Linux terminal "
   categories: ["Other"]
 
-- name: Gitlab CI/CD
-  logo: /images/sections/skills/gitlab.png
-  summary: " "
-  categories: ["Other"]
-
-- name: Jenkins
-  logo: /images/sections/skills/jenkins.png
-  summary: " "
-  categories: ["Other"]
 
 - name: FFMPEG
   logo: /images/sections/skills/ffmpeg.png
-  summary: " "
+  summary: "I usually use the FFMPEG command line as a tool to process images, videos, and audio. Need to refer to the document if needed."
   categories: ["Other"]
 
 - name: Figma
   logo: /images/sections/skills/figma.png
-  summary: " "
+  summary: "I used it cooperating with UI designer in company (2023-2024), I also used it in an University course for designing prototype."
   categories: ["Other"]
 
 - name: Sketch
   logo: /images/sections/skills/sketch.png
-  summary: " "
+  summary: "I used it while cooperating with UI designers in company (2019-2020) and drew diagrams in my previous tech blog."
   categories: ["Other"]
