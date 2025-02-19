@@ -38,10 +38,40 @@ skills:
   summary: "As the primary language in multiple company projects"
   categories: ["language"]
 
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Proficient, I have used git more than 9 years. Including Github, Gitlab and their CI/CD"
+  categories: ["Other"]
+
+- name: Node.js
+  logo: /images/sections/skills/nodejs.png
+  summary: "Proficient, contributed significantly to many business projects"
+  categories: ["Backend"]
+
+- name: LLM (Large Language Model)
+  logo: /images/sections/skills/ai.png
+  summary: "In last work experience, used it to build a Gen-AI project"
+  categories: ["Other"]
+
 - name: Python
   logo: /images/sections/skills/python.png
   summary: "In my last work experience, I used this language in maintaining the existing system and developing new features. Sometimes I prefer to use it to write some scritps."
   categories: ["language"]
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Often use it for local debug and deployment"
+  categories: ["Backend"]
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Comfortable using the Linux terminal "
+  categories: ["Other"]
+
+- name: AWS
+  logo: /images/sections/skills/aws.png
+  summary: "Used it in last work experience, including EC2, S3, Route53, App Runner, Lambda, ELB, IAM, Cloudformation, Cloudwatch"
+  categories: ["Backend"]
 
 - name: Go
   logo: /images/sections/skills/go.png
@@ -105,7 +135,6 @@ skills:
   categories: ["Frontend"]
   url: "https://ionicframework.com/"
 
-
 - name: Material UI
   logo: /images/sections/skills/materialui.png
   summary: "Used it in last work experience; need to refer document to coding"
@@ -123,20 +152,6 @@ skills:
   categories: ["Frontend"]
   url: "https://materializecss.com/"
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Often use it for local debug and deployment"
-  categories: ["Backend"]
-
-- name: AWS Cloud
-  logo: /images/sections/skills/aws.png
-  summary: "Used it in last work experience, including EC2, S3, Route53, App Runner, Lambda, ELB, IAM, Cloudformation, Cloudwatch"
-  categories: ["Backend"]
-
-- name: Node.js
-  logo: /images/sections/skills/nodejs.png
-  summary: "Proficient, contributed significantly to many business projects"
-  categories: ["Backend"]
 
 - name: REST API
   logo: /images/sections/skills/api.png
@@ -235,21 +250,6 @@ skills:
   logo: /images/sections/skills/sqlite.jpeg
   summary: "I used it in iOS projects many years ago."
   categories: ["Mobile"]
-
-- name: LLM (Large Language Model)
-  logo: /images/sections/skills/ai.png
-  summary: "In last work experience, use it to build Gen-AI project"
-  categories: ["Other"]
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Proficient, I have used git more than 9 years. Including Github, Gitlab and their CI/CD"
-  categories: ["Other"]
-
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Comfortable using the Linux terminal "
-  categories: ["Other"]
 
 - name: FFMPEG
   logo: /images/sections/skills/ffmpeg.png
