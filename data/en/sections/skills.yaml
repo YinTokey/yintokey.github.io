@@ -40,7 +40,7 @@ skills:
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Proficient, I have used git more than 9 years. Including Github, Gitlab and their CI/CD"
+  summary: "Proficient, used git more than 9 years. Including Github, Gitlab and their CI/CD"
   categories: ["Other"]
 
 - name: Node.js
@@ -55,7 +55,7 @@ skills:
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "In my last work experience, I used this language in maintaining the existing system and developing new features. Sometimes I prefer to use it to write some scritps."
+  summary: "Used this language in maintaining the existing system and developing new features."
   categories: ["language"]
 
 - name: Docker
@@ -75,17 +75,17 @@ skills:
 
 - name: Go
   logo: /images/sections/skills/go.png
-  summary: "It was the first backend language I learned. I contributed to a Go open source project `mimetype`, and used this language to build a micro service in a company."
+  summary: "Contributed to a Go open source project `mimetype`, and used this language to build a micro service in a company."
   categories: ["language"]
 
 - name: HTML
   logo: /images/sections/skills/html.png
-  summary: "Understand it, learned it by myself many years ago, and also learned it in a University course in 2024. I can write pure HTML if needed."
+  summary: "Understand it and can write pure HTML if needed."
   categories: ["language"]
 
 - name: CSS
   logo: /images/sections/skills/css.png
-  summary: "I can write it by combining with pure HTML. I learned it in a University course in 2024, most of the time need to search for documents to implement some features."
+  summary: "Can use it project, most of the time need to search for documents to implement some features."
   categories: ["language"]
 
 - name: SQL
