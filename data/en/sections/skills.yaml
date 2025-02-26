@@ -70,7 +70,7 @@ skills:
 
 - name: AWS
   logo: /images/sections/skills/aws.png
-  summary: "Used it in last work experience, including EC2, S3, Route53, App Runner, Lambda, ELB, IAM, Cloudformation, Cloudwatch"
+  summary: "Used it in last work experience, including EC2, S3, Route53, App Runner, Lambda, RDS, ELB, IAM, Cloudformation, Cloudwatch"
   categories: ["Backend"]
 
 - name: Go
