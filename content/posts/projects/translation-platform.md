@@ -10,7 +10,6 @@ The company’s main product [Xmind](https://xmind.app/) is used in over 100 cou
 ### 2. My Role
 I ended up doing everything myself—proposing and building an internal website that product managers could easily use for translation, designing the features, building the front end and back end, handling deployment, and reading the latest articles and academic papers to figure out how to improve translation quality using LLMs. I finally launched the platform within the company, guided product managers on how to use it, collected feedback, and continuously optimized the platform.
 
-
 ### 3. What I Did
 
 - Tech Stack & Deployment: I used LLMs (including RAG, Prompt Engineering, Vector Database, Embeddings) and leveraged various AWS services (S3, App Runner, CDK). I chose Next.js and Node.js for the full-stack solution so that I could quickly build it.
