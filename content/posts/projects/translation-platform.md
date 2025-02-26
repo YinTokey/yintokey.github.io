@@ -35,5 +35,4 @@ Below is a simplified workflow for English to French translation.
 
 - Exploring a New Domain: I dived into AI/ML research for better translations and discovered that reading and trying to replicate methods from academic papers can yield practical.
 
-- Full-Stack Development: Thanks to tools like GPT and my existing knowledge of React, I managed to build a complete front-end. Handling the back end and deploying on AWS was challenging, but it was a great learning experience.
 
