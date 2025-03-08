@@ -37,7 +37,7 @@ It integrated 2 video rendering engines to implement many kinds video generation
 
 
 ### 4. My Role
-I led the development and acted as a bridge to coordinate with multiple teams, including 5 engineer teams (11 members). And sometimes deal with feedback from other non-engineer's feedback, such as project manager, product manger, video designers. The cross team work relationship as follows.
+I led the development and acted as a bridge to coordinate with multiple teams, including 5 engineer teams (11 members). And sometimes deal with feedback from other non-engineers, such as project manager, product manger, video designers. The cross team work relationship as follows.
 
 ![](/images/sections/projects/video-rendering-service/2-1.png)
 
