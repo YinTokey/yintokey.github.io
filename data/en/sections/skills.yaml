@@ -105,13 +105,13 @@ skills:
 
 - name: Swift
   logo: /images/sections/skills/swift.png
-  summary: "In 2018, used it to write a company's project (Swift 4.1) and have a hobby open source project. [ARShooting](https://github.com/YinTokey/AR-Shooting)"
+  summary: "In 2018, used it to write a company's project (Swift 4.1) and have a hobby open source project."
   categories: ["language"]
   url: "https://swift.org/"
 
 - name: C
   logo: /images/sections/skills/c.png
-  summary: "I recently used it for an Operating System Course at University. In 2014, when I was a first-year undergraduate student, I used C to write a Windows music player by calling Win32 API in school. The code can still be found [here](https://github.com/YinTokey/MusicPlayer)"
+  summary: "I recently used it for an Operating System Course at University. In 2014, when I was a first-year undergraduate student, I used C to write a Windows music player by calling Win32 API in school. The code can still be found in my github `MusicPlaye`)"
   categories: ["language"]
 
 - name: R
