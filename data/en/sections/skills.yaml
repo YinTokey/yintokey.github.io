@@ -111,7 +111,7 @@ skills:
 
 - name: C
   logo: /images/sections/skills/c.png
-  summary: "I recently used it for an Operating System Course at University. In 2014, when I was a first-year undergraduate student, I used C to write a Windows music player by calling Win32 API in school. The code can still be found in my github `MusicPlaye`)"
+  summary: "I recently used it for an Operating System Course at University. In 2014, when I was a first-year undergraduate student, I used C to write a Windows music player by calling Win32 API in school. The code can still be found in my github `MusicPlayer`)"
   categories: ["language"]
 
 - name: R
