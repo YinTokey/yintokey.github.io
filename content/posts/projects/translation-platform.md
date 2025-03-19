@@ -4,13 +4,16 @@ date: 2025-02-16
 hero: /images/sections/projects/language-translation/1.jpg
 ---
 
-### 1. Project Background
+### 1. Company
+[Shenzhen Aisi Software Technology Co., Ltd.](https://xmind.app/)
+
+### 2. Project Background
 The company’s main product [Xmind](https://xmind.app/) is used in over 100 countries, and every new version launch needs to support multiple languages—usually more than 10 per version. They used to rely on a translation company, but that process was both slow and expensive. With the rise of AI in 2023, the boss suggested trying AI translation to speed up the process and cut costs, so I volunteered to take it on.
 
-### 2. My Role
+### 3. My Role
 I ended up doing everything myself—proposing and building an internal website that product managers could easily use for translation, designing the features, building the front end and back end, handling deployment, and reading the latest articles and academic papers to figure out how to improve translation quality using LLMs. I finally launched the platform within the company, guided product managers on how to use it, collected feedback, and continuously optimized the platform.
 
-### 3. What I Did
+### 4. What I Did
 
 - Tech Stack & Deployment: I used LLMs (including RAG, Prompt Engineering, Vector Database, Embeddings) and leveraged various AWS services (S3, App Runner, CDK). I chose Next.js and Node.js for the full-stack solution so that I could quickly build it.
 
@@ -20,7 +23,7 @@ Below is a simplified workflow for English to French translation.
 
 ![](images/sections/projects/language-translation/2.png)
 
-### 4. Results
+### 5. Results
 
 - Successfully Launched: All products([Xmind](https://xmind.app/), [Xmind AI](https://xmind.ai/), [Mapify](https://mapify.so)) in the company are now using this AI translation tool for software localization.
 
@@ -28,7 +31,7 @@ Below is a simplified workflow for English to French translation.
 
 - **Cost Savings**: Saving at least 20k CAD costs each year on translations that were previously paid to the translation company.
 
-### 5. What I Learned
+### 6. What I Learned
 
 - End-to-End Ownership: I’d never handled an entire project solo before—from identifying which features product managers really wanted, to designing them, coding, and deploying the solution. It taught me a lot about product thinking and how to balance business needs with technical feasibility.
 
