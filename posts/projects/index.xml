@@ -5,7 +5,9 @@
 &lt;p>&lt;a href="https://shanjian.tv" target="_blank" rel="noopener">https://shanjian.tv&lt;/a> (Chinese)&lt;/p>
 &lt;h3 id="1-team-members">1. Team Members&lt;/h3>
 &lt;p>5 members (Backend)&lt;/p>
-&lt;h3 id="2-technologies">2. Technologies&lt;/h3>
+&lt;h3 id="2-company">2. Company&lt;/h3>
+&lt;p>&lt;a href="https://sjzn.com/" target="_blank" rel="noopener">Shenzhen Qutui Science &amp;amp; Technology Co., Ltd.&lt;/a>&lt;/p>
+&lt;h3 id="3-technologies">3. Technologies&lt;/h3>
 &lt;ul>
 &lt;li>Node.js (Typescript)&lt;/li>
 &lt;li>Redis&lt;/li>
@@ -14,8 +16,10 @@
 &lt;li>&lt;a href="https://github.com/apolloconfig/apollo" target="_blank" rel="noopener">ApolloConfig&lt;/a>&lt;/li>
 &lt;li>WebSocket&lt;/li>
 &lt;/ul>
-&lt;h3 id="3-my-role">3. My Role&lt;/h3>
-&lt;p>When this project started from scratch, I was transitioning from an iOS Engineer to a Backend Engineer. After 2 months, I became the core developer on the project in August 2021 and continuously worked on it until the first version launched in July 2022.&lt;/p></description></item><item><title>Language Translation Platform</title><link>https://yintokey.me/posts/projects/translation-platform/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/translation-platform/</guid><description>&lt;h3 id="1-project-background">1. Project Background&lt;/h3>
+&lt;h3 id="4-my-role">4. My Role&lt;/h3>
+&lt;p>When this project started from scratch, I was transitioning from an iOS Engineer to a Backend Engineer. After 2 months, I became the core developer on the project in August 2021 and continuously worked on it until the first version launched in July 2022.&lt;/p></description></item><item><title>Language Translation Platform</title><link>https://yintokey.me/posts/projects/translation-platform/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/translation-platform/</guid><description>&lt;h3 id="1-company">1. Company&lt;/h3>
+&lt;p>&lt;a href="https://xmind.app/" target="_blank" rel="noopener">Shenzhen Aisi Software Technology Co., Ltd.&lt;/a>&lt;/p>
+&lt;h3 id="2-project-background">2. Project Background&lt;/h3>
 &lt;p>The company’s main product &lt;a href="https://xmind.app/" target="_blank" rel="noopener">Xmind&lt;/a> is used in over 100 countries, and every new version launch needs to support multiple languages—usually more than 10 per version. They used to rely on a translation company, but that process was both slow and expensive. With the rise of AI in 2023, the boss suggested trying AI translation to speed up the process and cut costs, so I volunteered to take it on.&lt;/p></description></item><item><title>Video Rendering Service</title><link>https://yintokey.me/posts/projects/rendering-service/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/rendering-service/</guid><description>&lt;h3 id="1-team-members">1. Team Members&lt;/h3>
 &lt;ul>
 &lt;li>Me (Contributed 90%)&lt;/li>
