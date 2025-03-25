@@ -9,25 +9,28 @@ description: "Video Rendering Service is an internal backend core service that s
 - Me (Contributed 90%)
 - Another Engineer (Contributed 10%)
 
-### 2. Technologies
-**2.1 Languages & Frameworks**
+### 2. Company
+[Shenzhen Qutui Science & Technology Co., Ltd.](https://sjzn.com/)
+
+### 3. Technologies
+**3.1 Languages & Frameworks**
 - Node.js (TypeScript) (80%)
 - Go (20%)
 - Egg.js
 - go-kratos
 
-**2.2 Databases & Caching**
+**3.2 Databases & Caching**
 - MongoDB
 - Redis
 
-**2.3 Messaging & Queueing**
+**3.3 Messaging & Queueing**
 - RabbitMQ
 
-**2.4 Infrastructure**
+**3.4 Infrastructure**
 - Docker, Kubenaties
 - Tencent, Alibaba Cloud
 
-### 3. Introduction
+### 4. Introduction
 Video Rendering Service is an internal backend core service that supports all the company's video generation products. 
 
 It integrated 2 video rendering engines to implement many kinds video generation, providing REST API to interact with other backend projects. The architecture is as follows.
@@ -36,13 +39,13 @@ It integrated 2 video rendering engines to implement many kinds video generation
 ![](/images/sections/projects/video-rendering-service/2.png)
 
 
-### 4. My Role
+### 5. My Role
 I led the development and acted as a bridge to coordinate with multiple teams, including 5 engineer teams (11 members). And sometimes deal with feedback from other non-engineers, such as project manager, product manger, video designers. The cross team work relationship as follows.
 
 ![](/images/sections/projects/video-rendering-service/2-1.png)
 
 
-### 5. Biggest Challenge
+### 6. Biggest Challenge
 As you can see from the diagram, I was facing a huge amount of communication work while also being the core developer of the [Flash Cut](/posts/projects/flash-cut) project. Every day, I was constantly interrupted—whether it was debugging rendering failures, answering questions from different teams, or troubleshooting unexpected issues. I couldn’t even get 20 minutes of uninterrupted focus to code or debug properly. But the development deadline didn’t change. It was extremely overwhelming
 
 ##### How I overcome it
@@ -51,7 +54,7 @@ I made a few key changes:
 
 - **Prioritization & Communication**: I sat down with my team leader and project manager to clearly define what was urgent vs. what could wait. This helped set expectations and reduced unnecessary interruptions.
 
-- **Logging Improvement**: I improved our backend logging system, making it easier for other engineers to find the root cause of rendering issues without needing my immediate help.
+- **Logging Improvement**: I improved the logging output, making it easier for other engineers to find the root cause of rendering issues without needing my immediate help.
 
 - **Documentation**: I created a comprehensive tech guide, including API usage, troubleshooting guide, and cross-team collaboration guide so that other teams could identify and solve common issues by themselves instead of pinging me for every small problem.
 
