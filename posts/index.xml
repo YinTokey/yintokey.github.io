@@ -25,29 +25,31 @@
 &lt;li>Me (Contributed 90%)&lt;/li>
 &lt;li>Another Engineer (Contributed 10%)&lt;/li>
 &lt;/ul>
-&lt;h3 id="2-technologies">2. Technologies&lt;/h3>
-&lt;p>&lt;strong>2.1 Languages &amp;amp; Frameworks&lt;/strong>&lt;/p>
+&lt;h3 id="2-company">2. Company&lt;/h3>
+&lt;p>&lt;a href="https://sjzn.com/" target="_blank" rel="noopener">Shenzhen Qutui Science &amp;amp; Technology Co., Ltd.&lt;/a>&lt;/p>
+&lt;h3 id="3-technologies">3. Technologies&lt;/h3>
+&lt;p>&lt;strong>3.1 Languages &amp;amp; Frameworks&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Node.js (TypeScript) (80%)&lt;/li>
 &lt;li>Go (20%)&lt;/li>
 &lt;li>Egg.js&lt;/li>
 &lt;li>go-kratos&lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>2.2 Databases &amp;amp; Caching&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>3.2 Databases &amp;amp; Caching&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>MongoDB&lt;/li>
 &lt;li>Redis&lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>2.3 Messaging &amp;amp; Queueing&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>3.3 Messaging &amp;amp; Queueing&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>RabbitMQ&lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>2.4 Infrastructure&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>3.4 Infrastructure&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Docker, Kubenaties&lt;/li>
 &lt;li>Tencent, Alibaba Cloud&lt;/li>
 &lt;/ul>
-&lt;h3 id="3-introduction">3. Introduction&lt;/h3>
+&lt;h3 id="4-introduction">4. Introduction&lt;/h3>
 &lt;p>Video Rendering Service is an internal backend core service that supports all the company&amp;rsquo;s video generation products.&lt;/p>
 &lt;p>It integrated 2 video rendering engines to implement many kinds video generation, providing REST API to interact with other backend projects. The architecture is as follows.&lt;/p></description></item><item><title>Youpai</title><link>https://yintokey.me/posts/projects/youpai/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://yintokey.me/posts/projects/youpai/</guid><description>&lt;p>Youpai is a game live-streaming and video-sharing platform under 4399. It provides live streams of popular PC and mobile games.&lt;/p>
 &lt;p>I worked on the iOS client development from March 2017 to January 2018.&lt;/p>
