@@ -197,6 +197,10 @@ skills:
   logo: /images/sections/skills/koa.png
   summary: "Able to use is in company's project"
   categories: ["Backend"]
+- name: Express.js
+  logo: /images/sections/skills/express.png
+  summary: "Able to use is in company's project"
+  categories: ["Backend"]
 
 - name: Egg.js
   logo: /images/sections/skills/egg.svg

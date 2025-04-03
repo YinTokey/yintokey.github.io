@@ -27,10 +27,9 @@ experiences:
     end: Jul 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Conceptualized, designed, and launched an AI translation platform for internal use, facilitating the localization of company’s products(Xmind, Xmind AI, Mapify). This platform replaced external vendors with an LLM solution, saving at least 20k CAD annually.
-    - Conducted research on language translation using LLM, including prompt engineering and RAG, to enhance translation accuracy. Achieved up to 90% human translation quality in French and German, as evaluated by internal language specialists.
-    - The AI translation platform developed by full-stack solution using Next.js, Koa.js, and AWS infrastructure, integrating the vector database Pinecone to leverage existing translation memories.
-    - Maintained user and payment services (Python, Node.js), optimized customer management system features; collaborated with tech support and marketing teams to address customer issues effectively.
+    - Built a translation platform solely using LLM, Next.js, AWS, cutting external translation costs by CAD 20k/year.
+    - Achieved 90% human translation quality (French, German) via RAG-based improvements, validated by in-house language experts.
+    - Optimized user/payment services (Python, Node.js) features and collaborating across teams.
 
 - company:
     name: Shenzhen Qutui Science & Technology Co., Ltd.
@@ -46,16 +45,18 @@ experiences:
     start: Jun 2021
     end: Aug 2022
     responsibilities:
-    - Led one engineer and coordinated with 5 teams (11 members) to develop and integrate a back-end video rendering service (Node.js, Go, RabbitMQ) supporting 3+ company video-generation products.
-    - Authored a comprehensive tech guide for the video rendering service, improving cross-team collaboration, earning a top performance review (1st of 14) in the back-end team (April 2022).
-    - Served as core back-end developer of the picture & text to video generation product (Shanjian, BoltCut), delivering REST and WebSocket APIs for mobile and front-end clients, enabling cross-platform functionality.
+    - Led 1 engineer to develop a cloud video rendering service (Node.js, Go, RabbitMQ) and coordinated with 5 teams (11 members) to support for more than 4 products integration.
+    - Authored a technical guide that improved cross-team collaboration; received top monthly performance rating (1st of 14).
+    - Migrated a rendering engine from a single machine to scalable GPU servers, boosting rendering speed by 3× and simplifying deployment.
+    - Optimized rendering tasks scheduled within cron jobs by designing a Redis-based caching strategy, reducing rendering costs by 50%.
+    - Delivered REST and WebSocket APIs for a text-to-video generation product, collaborating with 3 teams on integration and testing to enable seamless mobile and front-end functionality.
 
   - designation: iOS Development Engineer
     start: Mar 2019
     end: May 2021
     responsibilities:
-    - Led 3 iOS engineers and coordinated with the engine team to integrate client-side video rendering engine and develop iOS video editing features.
-    - Developed an iOS service registration library to enable modular architectures across multiple projects.
+    - Led 3 iOS developers to deliver major version updates, integrating video rendering engine new features.
+    - Developed an iOS module registration library to support modular architectures across multiple projects.
 
 - company:
     name: 4399 Network Co., Ltd. 
@@ -70,8 +71,10 @@ experiences:
     start: Jul 2017
     end: Jan 2019
     responsibilities:
-    - Researched the feasibility of the Swift technology stack; developed a children’s content app from scratch with a partner.
-    - Collaborated with other members to develop a gaming video app; responsible for the live chat tables and dynamic feed streaming feature.
+    - Drove evaluation and adoption of a new iOS tech stack (RxSwift, MVVM, modularization) by developing libraries and documentation that enabled team integration in new projects.
+    - Collaborated with other members to develop a gaming video app and children vidoe app;
   - designation: iOS Development Intern
     start: Feb 2017
     end: Jun 2017
+    responsibilities:
+    - Supported iOS team in a video streaming app feature development, bug fixes, and testing.
