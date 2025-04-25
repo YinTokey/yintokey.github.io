@@ -19,6 +19,11 @@ Please use browser’s translation feature if needed
 https://www.niaogebiji.com/article-574404-1.html
 
 
+
+
+**Video**  
+https://drive.google.com/file/d/1zSBwsDXa0dzEv6hodfqQj8TxGU4BGxV8/view?usp=drive_link
+
 **Screenshots**
 
 ![](/images/sections/projects/doupai/doupai-x.png)
